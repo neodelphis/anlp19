@@ -1,0 +1,11 @@
+name: anlp
+ 
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - nb_conda
+    - nltk
+    - spacy
+    - scikit-learn
+    - pandas
+    - matplotlib
